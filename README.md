@@ -108,7 +108,7 @@ I am passionate about:
 ## 📫 Contact
 
 * 📧 Email: [karthikramanathan35@gmail.com](mailto:karthikramanathan35@gmail.com)
-* 💼 LinkedIn: https://www.linkedin.com/in/karthik-ramanathan-51b216207/
+* 💼 LinkedIn: [Linkedin Profile](https://www.linkedin.com/in/karthik-ramanathan-51b216207/)
 * 📍 Mississauga, Ontario
 
 ---
