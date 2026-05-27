@@ -50,8 +50,6 @@ I am passionate about:
 * Azure Synapse Analytics
 * Azure Blob Storage
 * Git & GitHub
-* Power Automate
-* Power Apps
 
 ### Databases
 
@@ -110,7 +108,7 @@ I am passionate about:
 ## 📫 Contact
 
 * 📧 Email: [karthikramanathan35@gmail.com](mailto:karthikramanathan35@gmail.com)
-* 💼 LinkedIn: Add your LinkedIn profile here
+* 💼 LinkedIn: https://www.linkedin.com/in/karthik-ramanathan-51b216207/
 * 📍 Mississauga, Ontario
 
 ---
