@@ -1,4 +1,4 @@
-# Karthik Ramanathan – Data Analyst Portfolio
+# Karthik Ramanathan – Portfolio
 
 Welcome to my professional portfolio repository. I am **Karthik Ramanathan**, a Data Analyst with 2+ years of experience in transforming complex datasets into actionable business insights using SQL, Python, Power BI, and Azure technologies.
 
